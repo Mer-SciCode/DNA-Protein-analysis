@@ -5,14 +5,20 @@ A Python-based GUI tool for DNA and protein sequence analysis, supporting FASTA 
 This project is a Python-based graphical user interface (GUI) application for basic DNA and protein sequence analysis. It allows users to load sequences from FASTA files or manually input sequences and perform common bioinformatics analyses.
 
 **Features**
+
 1)Load DNA sequences from FASTA files
+
 2)Validate DNA sequences (A, T, G, C only)
+
 3)Calculate:
 Sequence length
 Nucleotide frequency
 GC content
+
 4)Generate reverse complement
+
 5)Translate DNA into protein sequence (standard genetic code)
+
 6)Simple and user-friendly GUI built with Tkinter
 
 **Technologies Used**
@@ -21,7 +27,7 @@ Tkinter (GUI development)
 
 **How to Run**
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Mer-SciCode/DNA-Protein-analysis.git
 Navigate to the project folder:
 cd DNA-Protein-analysis
 Run the script:
