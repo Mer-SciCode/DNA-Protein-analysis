@@ -59,11 +59,7 @@ Shahd Talal-Eldin (GitHub: @username)
 
 We worked together on:
 
-Designing the GUI
-
-Implementing sequence analysis functions
-
-Testing and debugging
+Designing the GUI, Implementing sequence analysis functions, Testing and debugging
 
 **Future Improvements**
 
